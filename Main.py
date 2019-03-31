@@ -36,4 +36,4 @@ def PasswordGenerator():
 print('Randomly generated strong password for you is:')
 PasswordGenerator()
 print('This password was just copied to your clipboard')
-
+end = input()
